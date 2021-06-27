@@ -1,4 +1,5 @@
-Please launch the backend before starting the UI app. Run yarn start to start the application. Open http://localhost:3000 to view it in the browser.
+Please launch the backend before starting the UI app. Run yarn to install all the packages. 
+Run yarn start to start the application. Open http://localhost:3000 to view it in the browser.
 
 Main library React, React-Hooks, React-Redux, Redux-Saga, React-Hook-Form, yup and React-Bootstrap
 
